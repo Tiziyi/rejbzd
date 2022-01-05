@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/languages/code-size/MayoBlueSky/My-Actions?color=blueviolet">
 </div>
 
-个人收集并适配Github Actions的各类签到大杂烩
+个人收集并适配Github Actions的各类签到大杂烩 
 ## 不要fork了 ⭐️star就行  
 # 使用方式
 1. [新建仓库并同步代码](RepoSync.md)1
